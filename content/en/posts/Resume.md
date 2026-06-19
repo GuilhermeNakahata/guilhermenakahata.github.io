@@ -86,7 +86,7 @@ F. Diniz, J. Luis, **Guilherme Nakahata**
 
 - Research Assistant, AIST (2025–Present)
 
-- Teaching Assistant (CS Seminar), University of Tsukuba (2025–2026)
+- Teaching Assistant (CS Seminar), University of Tsukuba (2025–Present)
 
 - Research Student, University of Tsukuba (2024–2025)
 
@@ -96,7 +96,7 @@ F. Diniz, J. Luis, **Guilherme Nakahata**
 
 # International Collaborations
 
-- Collaboration with Manna Team (Brazil - 2025) – Research project funded by Araucaria Foundation
+- Collaboration with Manna Team (Brazil) – Research project funded by Araucaria Foundation (2026-Present
 
 # Scholarships
 
