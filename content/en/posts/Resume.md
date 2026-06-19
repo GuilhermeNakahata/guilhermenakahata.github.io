@@ -25,11 +25,11 @@ My research focuses on highly constrained combinatorial optimization problems. I
 
 [PDF](https://link.springer.com/chapter/10.1007/978-3-032-23607-4_27) · DOI: 10.1007/978-3-032-23607-4_27 · [Repository](https://guilhermenkht.github.io/TTP_ConstructiveMethod/)
 
-### Bonsai Style Classiﬁcation: A New Database and Baseline Results
+### Bons-AI: An Agent-Based Model to Evaluate the Behavior of Bonsai Grower According to Different Levels of Communication and Experience
 S. Satake, **Guilherme Nakahata**, C. Aranha
 *International Conference on Autonomous Agents and Multiagent Systems (AAMAS)*, Cyprus, 2026
 
-[PDF](placeholder) · DOI: placeholder · [Repository](placeholder)
+[PDF](https://dl.acm.org/doi/abs/10.65109/UHQU6299) · DOI: 10.65109/UHQU6299 · [Repository](https://github.com/GuilhermeNkht/Bons-AI)
 
 ### Decision-Making Policies under Stigmergic Communication: A Pheromone-Based Multi-Agent Study
 A Pheromone-Based Multi-Agent Study
