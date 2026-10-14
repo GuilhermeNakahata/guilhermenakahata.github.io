@@ -1,6 +1,6 @@
 ---
 title: "When Feasible Solutions Become a Trap: Initialization Strategies for EDAs in the Traveling Tournament Problem"
-date: "2026-10-14T10:00:00-03:00"
+date: "2026-10-13T10:00:00-03:00"
 tags: ["Traveling Tournament Problem", "Estimation of Distribution Algorithms"]
 title-images: []
 ending-images: []
