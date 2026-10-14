@@ -6,8 +6,8 @@ title-images: []
 ending-images: []
 author: "GuilhermeNakahata"
 draft: false
-table-of-contents: false
-toc-auto-numbering: false
+table-of-contents: true
+toc-auto-numbering: true
 ---
 
 I’ll be presenting this paper at ECTA 2026 in Angers, France, on October 28–30. It looks at how different starting solutions affect Estimation of Distribution Algorithms (EDAs) for the Traveling Tournament Problem.
