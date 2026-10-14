@@ -6,8 +6,8 @@ title-images: []
 ending-images: []
 author: "GuilhermeNakahata"
 draft: false
-table-of-contents: true
-toc-auto-numbering: true
+table-of-contents: false
+toc-auto-numbering: false
 ---
 <!-- introduction -->
 This page contains a list of my academic publications and ongoing research work.

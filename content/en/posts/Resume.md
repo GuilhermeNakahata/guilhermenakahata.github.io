@@ -6,8 +6,8 @@ title-images: []
 ending-images: []
 author: "GuilhermeNakahata"
 draft: false
-table-of-contents: true
-toc-auto-numbering: true
+table-of-contents: false
+toc-auto-numbering: false
 ---
 <!-- introduction -->
 
